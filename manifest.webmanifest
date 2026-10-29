@@ -1,1 +1,1 @@
-{"name":"우리단지 방역관리 체험","short_name":"우리단지","start_url":"./index.html","display":"standalone","background_color":"#f3f7fa","theme_color":"#07569c","icons":[{"src":"logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name": "단지온결 방역관리 체험", "short_name": "단지온결", "start_url": "./index.html", "display": "standalone", "background_color": "#f3f7fa", "theme_color": "#07569c", "icons": [{"src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
